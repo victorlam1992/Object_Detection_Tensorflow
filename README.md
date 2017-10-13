@@ -64,6 +64,8 @@ Object-Detection
 
 2. Use ```labelImg``` to label the image, save the image to XML format
 
+    ```download from http://tzutalin.github.io/labelImg/```
+
 3. Seperate the data to **train** and **test** folder (90% : 10%)
 
 4. Run ```xml_to_csv.py``` to convert XML to csv format
