@@ -15,6 +15,7 @@ The most simplest steps for object detection in Python Tensorflow
     
 ## Execution
 1. Run the code in object_detection_tutorial.ipynb
+
 https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb
 
 2. Install packages if missing
