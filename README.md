@@ -64,7 +64,7 @@ Object-Detection
 
 2. Use ```labelImg``` to label the image, save the image to XML format
 
-    ```download from http://tzutalin.github.io/labelImg/```
+    download from: ```https://github.com/tzutalin/labelImg```
 
 3. Seperate the data to **train** and **test** folder (90% : 10%)
 
