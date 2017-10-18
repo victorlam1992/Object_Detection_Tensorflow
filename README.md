@@ -30,6 +30,15 @@ The most simplest steps for object detection in Python Tensorflow
 
 2. Install packages if missing
 
+Remember: Change directory to ```tensorflow/models/research/``` in spyder or command prompt
+
+Probably include:
+```
+conda install matplotlib
+conda install Pillow
+conda install python-utils
+```
+
 3. if run successfully, two images should be shown, with probabily and label on it
 
 # Build your own category to pre-trained model
